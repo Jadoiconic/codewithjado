@@ -118,13 +118,13 @@ const Footer = () => {
             <a href="#" className="text-gray-300">
               <i className="bi bi-facebook"></i>
             </a>
-            <a href="#" className="text-gray-300">
+            <a href="https://www.instagram.com/codewithjado" className="text-gray-300">
             <i className="bi bi-instagram"></i>
             </a>
             <a href="#" className="text-gray-300">
               <i className="bi bi-google"></i>
             </a>
-            <a href="#" className="text-gray-300">
+            <a href="https://www.linkedin.com/in/nizeyimana-jean-de-dieu-632341245" className="text-gray-300">
               <i className="bi bi-linkedin"></i>
             </a>
           </div>
