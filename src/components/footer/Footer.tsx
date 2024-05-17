@@ -113,19 +113,19 @@ const Footer = () => {
           </div>
           <div className="flex gap-2 text-center text-md-right pt-3 pt-md-0">
             <a href="#" className="text-gray-300">
-           TWtr
+              <i className="bi bi-twitter"></i>
             </a>
             <a href="#" className="text-gray-300">
-              <i className="bx bxl-facebook">Fb</i>
+              <i className="bi bi-facebook"></i>
             </a>
             <a href="#" className="text-gray-300">
-              <i className="bx bxl-instagram">Ig</i>
+            <i className="bi bi-instagram"></i>
             </a>
             <a href="#" className="text-gray-300">
-              <i className="bx bxl-skype">G</i>
+              <i className="bi bi-google"></i>
             </a>
             <a href="#" className="text-gray-300">
-              <i className="bx bxl-linkedin">In</i>
+              <i className="bi bi-linkedin"></i>
             </a>
           </div>
         </div>
