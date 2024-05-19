@@ -12,7 +12,7 @@ const ServicePage = () => {
         className="min-h-[80vh] md:pt-[4rem] pb-2 bg-[#f3f0ff]"
       >
         <h1 className="text-center text-5xl  md:pb-4 py-2 font-bold text-[#5f6469]">
-          Service page
+          Services
         </h1>
         <div className="md:px-4 px-1 grid md:grid-cols-2 gap-4">
           <div className=" p-3 rounded-md">
